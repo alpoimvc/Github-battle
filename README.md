@@ -1,4 +1,3 @@
-https://github-battle-4d856.firebaseapp.com/popular
 
 Github Battle - React
 ========
